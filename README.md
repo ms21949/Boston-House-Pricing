@@ -11,5 +11,5 @@
 Create a new environment
 
 `````````
-conda create --name bostonhousing python==3.7
+conda create --p venv python==3.9
 
